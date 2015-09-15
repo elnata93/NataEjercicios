@@ -19,7 +19,7 @@ namespace TareaEjerciciosCap2
 
         private void label1_Click(object sender, EventArgs e)
         {
-
+           //oioi
         }
 
         private void Ejercicio1_Load(object sender, EventArgs e)
